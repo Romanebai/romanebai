@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**Romanebai/romanebai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Romane Baï et cela fait maintenant un an que j'ai entamée ma reconversion professionnelle en tant que ✨Développeuse Web et Web Mobile Fullstack.✨ 
 
-Here are some ideas to get you started:
+J'ai obtenu mon diplôme en février 2024. Depuis je me concentre entièrement à ce projet car j'ai enfin trouvé le domaine dans lequel je pourrais m'épanouir professionnellement. 
+  
+----------------------
+  
+Les technologies que j'utilise :   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Front-end**
+- HTML 5
+- CSS 3
+- Bulma
+- Javascript Vanilla
+- React
+- TypeScript
+- Vite
+
+**Back-end** 
+- NodeJS
+- Express
+- PostgreSQL
+- SQL
+- Sequelize
+- MVC
+- POO
+- Docker
+- mongoDB
+- Sqitch
+
+---------------
+
+**Mes réseaux** : 
+
+Mon [portfolio](https://romanebai.com)  
+Mon [linkedin](https://www.linkedin.com/in/romanebai/)
