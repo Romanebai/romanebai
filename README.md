@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Je m'appelle Romane Baï et cela fait plus d'un an que j'ai entamée ma reconversion professionnelle en tant que ✨Développeuse Web et Web Mobile Fullstack.✨ 
+Je m'appelle Romane et cela fait deux ans que j'ai entamée ma reconversion professionnelle en tant que ✨Développeuse Web et Web Mobile Fullstack.✨ 
 
 J'ai obtenu mon titre professionnel en février 2024. Depuis je me concentre entièrement à ce projet car j'ai enfin trouvé le domaine dans lequel je pourrais m'épanouir professionnellement. 
+
+Actuellement en alternance, je suis en étude pour un BAC +3/+4. Dans le cadre de mes études et de mon entreprise j'apprends de nouveaux langages et technologies. 
   
 ----------------------
   
@@ -29,6 +31,13 @@ Les technologies que j'utilise :
 - mongoDB
 - Sqitch
 
+**En apprentissage**
+- Java
+- Angular
+- Spring Boot
+- Hibernate
+- MariaDB
+- Apex 
 ---------------
 
 **Mes réseaux** : 
